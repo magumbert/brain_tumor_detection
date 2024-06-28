@@ -7,3 +7,6 @@ Workflow is as follows:
 3. Build naive baseline CNN.
 4. Transfer-learning using RestNet50.
 5. Transfer-learning using EfficientNet.
+
+
+Work in progress.
