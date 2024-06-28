@@ -1,6 +1,8 @@
 # brain_tumor_detection
 Leverage deep learning to detect and classify brain tumors from MRI scans.
 
+Requires GPU. Everything can be found within the brain_tumor_detection.ipynb notebook.
+
 Workflow is as follows:
 1. Data Augmentation
 2. Train-Test split
