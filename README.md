@@ -1,5 +1,8 @@
 # brain_tumor_detection
-Leverage deep learning to detect and classify brain tumors from MRI scans.
+
+![MRI brain tumor](https://upload.wikimedia.org/wikipedia/commons/8/87/MRI_brain_tumor.jpg)
+
+This project leverages computer vision to detect and classify brain tumors from MRI scans.
 
 Requires GPU. Everything can be found within the brain_tumor_detection.ipynb notebook.
 
@@ -11,4 +14,4 @@ Workflow is as follows:
 5. Transfer-learning using EfficientNet.
 
 
-Work in progress.
+Development currently still in progress.
