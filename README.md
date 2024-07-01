@@ -1,6 +1,6 @@
 # Brain Tumor Detection
 
-![MRI Brain Tumor](MRI_brain_tumor.jpg)
+<img src="MRI_brain_tumor.jpg" alt="MRI Brain Tumor" width="300">
 
 This project leverages computer vision to detect and classify brain tumors from MRI scans.
 
